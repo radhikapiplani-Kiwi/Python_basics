@@ -40,4 +40,9 @@ print(s.isalnum())#is all aphabetic
 print(s.isalpha())
 #is all numeric
 print(s.isnumeric())
-
+mystr="hello"
+print(mystr)
+print(len(mystr))
+print(mystr[0:4])
+for i in mystr:
+    print(i)
